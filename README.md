@@ -8,3 +8,8 @@ A python program that can organize my music library both in structure as in ID3 
 
 ## Discovered bugs ##
 * None found
+
+## Useful articles ##
+* https://en.wikipedia.org/wiki/Code_page_437
+* https://en.wikipedia.org/wiki/ISO/IEC_8859-1
+* http://www.columbia.edu/kermit/ucs2.html
