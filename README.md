@@ -5,6 +5,7 @@ A python program that can organize my music library both in structure as in ID3 
 * Reading and decoding ID3 tags
   * Keeping track of raw tags
   * Automatically assigning BPM
+  * Automatic ID3v1 genre reference
 * Automatic formatter
 * Folder and file organizer
 
