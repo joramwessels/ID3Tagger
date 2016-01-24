@@ -3,6 +3,7 @@ A python program that can organize my music library both in structure as in ID3 
 
 ## Backlog ##
 * Reading and decoding ID3 tags
+  * Keeping track of raw tags
 * Automatic formatter
 * Folder and file organizer
 
