@@ -1,4 +1,10 @@
 #! /usr/bin/python
+"""
+"" File:	Frame.py
+"" Version:	0.2
+"" Date:	24-1-2016
+"" Author:	Joram Wessels
+"""
 
 from exception.ID3Error import ID3Error
 from constants import FRAME_HEADER_ENCODING, decode, encoding, terminator, latin, utf16
