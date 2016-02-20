@@ -12,7 +12,7 @@ A python program that can organize a music library, both in overall structure as
   * 0.7 - Logs corrupted/unreadable files
   * 0.8 - Writes ID3v2 tags
   * 0.9 - Reads ID3v1 tags
-  * 0.10- ID3v1 genre reference table
+  * 0.10 - ID3v1 genre reference table
   * 1.0 - Successfully reads all files in the library
 * Enricher.py
   * 0.1 - Returns files without the specified field
