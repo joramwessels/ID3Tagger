@@ -1,4 +1,10 @@
 #! /usr/bin/python
+"""
+"" File:	ID3v2.py
+"" Version:	0.2
+"" Date:	24-1-2016
+"" Author:	Joram Wessels
+"""
 
 from exception.ID3Error import ID3Error
 from Frame import Frame
